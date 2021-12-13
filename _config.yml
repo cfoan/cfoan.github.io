@@ -7,7 +7,7 @@
 
 # Site settings
 title: cfoan
-brief-intro: Front-end Dev Engineer
+brief-intro: Backend Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cfoan.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 欢迎来看我的博客！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
